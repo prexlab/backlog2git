@@ -1,0 +1,39 @@
+
+
+#git-prs{
+}
+
+#git-prs h4{
+    margin: 0;
+}
+
+#git-prs ul{
+    margin: 0;
+}
+
+#git-start-pr a {
+    display: inline-block;
+    padding: 0 5px;
+}
+
+#my-insert-box textarea{
+    margin: 5px; padding: 5px; width: 100%; border:none;
+    background: aliceblue;
+}
+
+
+.myCommentBox {
+    display: block;
+    background-color:white;
+    border: 1px solid #dddddd;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    border-radius: 10px;
+    margin: 5px;
+    padding: 5px;
+}
+
+.myCommentBox p{
+    margin: 0 !important;
+    padding: 0 !important;
+}
