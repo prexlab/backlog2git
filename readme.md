@@ -11,7 +11,10 @@ Backlogとgitでお仕事する人のためのChromeExtensionです。
 
 # インストール
 
-DLしたディレクトリを「パッケージ化されていない拡張機能を読み込む」してください。
+- このリポジトリをダウンロードします
+- cp actions/config.sample.js actions/config.js
+- config.js を適切に定義します
+- DLしたディレクトリを「パッケージ化されていない拡張機能を読み込む」してください。
 
 # 利用方法
 
